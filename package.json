@@ -1,0 +1,21 @@
+{
+  "name": "bitcoin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bip32": "^5.0.0-rc.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^7.0.0-rc.0",
+    "body-parser": "^1.20.3",
+    "ecpair": "^3.0.0-rc.0",
+    "express": "^4.21.1",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}
